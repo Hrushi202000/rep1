@@ -2,3 +2,5 @@ HELLO BROOOOOO!!
 changeeee..
 bug changed
 file changed by teammate(made in master branch)
+for bug2.. watching conflict(changes in bug2)
+
